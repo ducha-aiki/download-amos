@@ -1,0 +1,1 @@
+Simple Python script for downloading all [AMOS dataset](http://amos.cse.wustl.edu/) zip urls
